@@ -1,0 +1,7 @@
+{
+	"OutputFiles": [
+		"PCH.Socketer.h.obj",
+		"Module.Socketer.cpp.obj",
+		"Module.Socketer.gen.cpp.obj"
+	]
+}

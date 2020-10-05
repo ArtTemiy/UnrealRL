@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Socketer-8078.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\_Documents\_U\Summer_practice\RLSocket\Plugins\Socketer-UE421\Intermediate\Build\Win64\UE4Editor\Development\Socketer\PCH.Socketer.h.obj"
+"D:\_Documents\_U\Summer_practice\RLSocket\Plugins\Socketer-UE421\Intermediate\Build\Win64\UE4Editor\Development\Socketer\Module.Socketer.cpp.obj"
+"D:\_Documents\_U\Summer_practice\RLSocket\Plugins\Socketer-UE421\Intermediate\Build\Win64\UE4Editor\Development\Socketer\Module.Socketer.gen.cpp.obj"
+"D:\_Documents\_U\Summer_practice\RLSocket\Plugins\Socketer-UE421\Intermediate\Build\Win64\UE4Editor\Development\Socketer\PCLaunch.rc.res"
+/OUT:"D:\_Documents\_U\Summer_practice\RLSocket\Plugins\Socketer-UE421\Intermediate\Build\Win64\UE4Editor\Development\Socketer\UE4Editor-Socketer-8078.lib"
